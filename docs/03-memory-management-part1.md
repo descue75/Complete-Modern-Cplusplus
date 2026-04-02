@@ -1,7 +1,7 @@
 <nav>
   <a href="../docs/02-basic-language-facilities.md">← Previous: Basic Language Facilities</a> |
   <a href="../README.md">📚 Table of Contents</a> |
-  <a href="../docs/04-todo-section.md">Next: TODO Section →</a>
+  <a href="../docs/04-classes-and-objects.md">Next: Classes and Objects →</a>
 </nav>
 
 ---
@@ -92,4 +92,4 @@
 
 📚 [Table of Contents](../README.md)  
 ← [Previous: Basic Language Facilities](../docs/02-basic-language-facilities.md)  
-→ [Next: TODO Section](../docs/04-todo-section.md)  
+→ [Next: Classes and Objects](../docs/04-classes-and-objects.md)
