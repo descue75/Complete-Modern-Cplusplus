@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BasicIO/BasicIO.vcxproj" Id="c4db82d2-edad-4531-991f-b494d83aef68" />
+</Solution>
