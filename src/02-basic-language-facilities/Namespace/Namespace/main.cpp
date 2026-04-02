@@ -1,4 +1,6 @@
 #include <iostream>
+#include <filesystem>
+
 namespace Avg {
 	float Calculate(float x, float y) {
 		using namespace std;
@@ -19,10 +21,10 @@ namespace Sort {
 	void Quicksort() {
 
 	}
-	void Insertionsort() {
+	void InsertionSort() {
 
 	}
-	void Mergesort() {
+	void MergeSort() {
 
 	}
 	namespace Comparison {
@@ -54,6 +56,9 @@ int main() {
 
 	// can only be used in this file
 	InternalFunction();
+
+	namespace fs = std::filesystem;
+	fs::path p;
 
 	return 0;
 }

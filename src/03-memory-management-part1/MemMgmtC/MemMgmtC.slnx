@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MemMgmtC/MemMgmtC.vcxproj" Id="35772321-c015-40bd-8d49-66a48b04ae34" />
+</Solution>
