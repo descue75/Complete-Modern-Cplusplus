@@ -21,6 +21,7 @@
 
 - [02 - Basic Language Facilities](docs/02-basic-language-facilities.md)
 - [03 - Memory Management Part 1](docs/03-memory-management-part1.md)
+- [04 - Classes and Objects](docs/04-classes-and-objects.md)
 
 ## 🚀 Notes
 
